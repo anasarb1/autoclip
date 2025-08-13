@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+coqui-tts
+pexels-api
+ffmpeg-python
+python-dotenv
